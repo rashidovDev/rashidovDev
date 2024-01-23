@@ -1,7 +1,7 @@
 ### Hi there, I am Anvar Rashidov  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🌱 I'm Web Developer  
-- 📫 How to reach me: https://t.me/anvar_rashidov](https://www.linkedin.com/in/anvarrashidov/
+- 📫 How to reach me: https://www.linkedin.com/in/anvarrashidov/
 - 😄 Pronouns: He/His
 
 ## Languages and Tools:
